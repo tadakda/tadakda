@@ -6,7 +6,7 @@
 
 wanna collab on something cool? please reach out to me at kevindao2006@gmail.com
 
-_(yes that is my cat, her name is nabi! ❤️)_
+(_yes that is my cat, her name is nabi!_ ❤️)
 
 <!--
 **tadakda/tadakda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
