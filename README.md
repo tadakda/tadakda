@@ -1,4 +1,4 @@
-## hi! i'm kevin 👋
+## 👋 hi! i'm kevin
 
 - working @ [ibotta](https://ibotta.com/)
 - ut austin '21, bachelor's in computer science / minor in design
