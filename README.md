@@ -1,4 +1,10 @@
-## Hi there 👋
+## hi! i'm kevin 👋
+
+- working @ [ibotta](https://ibotta.com/)
+- ut austin '21, bachelor's in computer science / minor in design
+- currently learning: swift, agentic development, and _Chopin's_ [Etude op. 10 no. 1](https://www.youtube.com/watch?v=9E82wwNc7r8)
+
+wanna collab on something cool? please reach out to me at kevindao2006@gmail.com
 
 <!--
 **tadakda/tadakda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
