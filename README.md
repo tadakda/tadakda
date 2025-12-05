@@ -1,8 +1,8 @@
 ## 👋 hi! i'm kevin
 
-- working @ [ibotta](https://ibotta.com/)
+- currently @ [ibotta](https://ibotta.com/)
 - ut austin '21, bachelor's in computer science / minor in design
-- currently learning: swift, agentic development, Chopin's [Etude op. 10 no. 1](https://www.youtube.com/watch?v=9E82wwNc7r8), matcha brewing 🍵
+- learning: swift, agentic development, Chopin's [Etude op. 10 no. 1](https://www.youtube.com/watch?v=9E82wwNc7r8), matcha brewing 🍵
 
 wanna collab on something cool? please reach out to me at kevindao2006@gmail.com
 
